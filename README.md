@@ -15,5 +15,6 @@ Dikembagkan disitus ~ [Creative Design Jakarta](https://creativedesignjakarta.gi
 - Tambah/Edit Post
 - Kelola Post
 - Pengaturan Website
+- Widget
 
 © 2024 ~ We Are In Your Head (Programer Indonesia)
