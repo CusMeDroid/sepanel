@@ -7,11 +7,12 @@ Sepanel adalah konfigurasi untuk mengatur situs yang dibuat oleh Suryo DwiJayant
 [<img title="Sepanel | Masuk" alt="Sepanel | Masuk" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d001.png">](https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d001.png) [<img title="Sepanel | Tambah/Edit" alt="Sepanel | Tambah/Edit" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d002.png">](https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d002.png) [<img title="Sepanel | Kelola" alt="Sepanel | Kelola" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d003.png">](https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d003.png) [<img title="Sepanel | Pengaturan" alt="Sepanel | Pengaturan" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d004.png">](https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d004.png) [<img title="Sepanel | Pengaturan" alt="Sepanel | Pengaturan" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d005.png">](https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d005.png) [<img title="Sepanel | Widget" alt="Sepanel | Widget" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d006.png">](https://raw.githubusercontent.com/CusMeDroid/sepanel/refs/heads/main/screenshot/_ss_d006.png)
 
 # Situs Template
-Dikembagkan disitus ~ [Creative Design Jakarta](https://creativedesignjakarta.github.io)
+Dikembangkan disitus ~ [Creative Design Jakarta](https://creativedesignjakarta.github.io)
 
 # Perubahan
 *SePanel v.1* 
 - Minimalis UI/UX
+- Tema Light/Dark
 - Tambah/Edit Post
 - Kelola Post
 - Pengaturan Website
