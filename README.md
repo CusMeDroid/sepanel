@@ -12,7 +12,7 @@ Dikembangkan disitus ~ [Creative Design Jakarta](https://creativedesignjakarta.g
 # Perubahan
 *SePanel v.1* 
 - Minimalis UI/UX
-- Tema Light/Dark
+- Tema Terang/Gelap
 - Tambah/Edit Post
 - Kelola Post
 - Pengaturan Website
