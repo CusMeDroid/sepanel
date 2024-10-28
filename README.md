@@ -10,6 +10,7 @@ Sepanel adalah konfigurasi untuk mengatur situs yang dibuat oleh Suryo DwiJayant
 Dikembangkan disitus :
 - [Creative Design Jakarta](https://creativedesignjakarta.github.io)
 - [ZeDesign](https://zedesignbogor.web.app/)
+- [Babu Program](https://babuprograms.web.app/)
 
 # Perubahan
 *SePanel v.1* 
